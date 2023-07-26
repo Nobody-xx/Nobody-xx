@@ -2,7 +2,7 @@
 - 👀 I’m interested in in a permanent role with a company which needs my skills in data analytics as well as my passion for skills in data analytics as well as my passion for solving problems.
 - 🌱 I’m currently learning Data Modelling
 - 💞️ I’m looking to collaborate on Data Analytics
-- 📫 How to reach me ...emmanuelkvng234@gmail.com
+- 📫 How to reach me ...ojemmanuel234@gmail.com
 
 
 <!---
